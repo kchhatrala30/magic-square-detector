@@ -14,6 +14,8 @@ In other words, "file.txt" should look like the example above.
 
 There are 8 total magic squares that can be made from a 3x3 matrix. See if you can find them all!
 
+This project originally began as a lab assignment for a class.
+
 # Example
 2 7 6<br />
 9 5 1<br />
